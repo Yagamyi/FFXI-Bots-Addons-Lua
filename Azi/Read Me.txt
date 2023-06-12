@@ -1,0 +1,5 @@
+Lua for fighting Azi Dahaka while AFK in the Escha zones for beads or whatever.
+
+//lua load Azi 
+
+It's best to use with easyfarm and clipper.
