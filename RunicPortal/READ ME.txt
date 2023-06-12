@@ -1,0 +1,43 @@
+COMMANDS
+	Warping 			> //rp [all]
+	Get Sanction 		> //rp [all] sanction (change the default bonus in the settings.xml - regen, refresh, food)
+	Get Tag 			> //rp [all] tag
+	Get Orders 			> //rp [all] nni
+	Get Armband 		> //rp armband
+	Open Box 			> //rp box (if you didn't want to use the autobox feature you can use this cmd)
+	1F jump 			> //rp small
+	Big floor jump	 	> //rp big
+	Smart floor jump	> //rp smart (see settings.xml)
+	Exit Nyzul 			> //rp exit
+	Toggle Auto Boxing 	> //rp autobox
+	Total boxes 		> //rp count
+	Check KI 			> //rp check
+	Reload 				> //rp reload
+	Debug Mode 			> //rp debug
+	Always Show 		> //rp alwaysshow
+	Nyzul HUD  			> //rp hud
+	Help 				> //rp help
+ 
+SHORT COMMANDS
+ Warping > //rp [a]
+ Get Sanction > //rp [a] san
+ Get Tag > //rp [a] t
+ Get Orders > //rp [a] n
+ Get Armband > //rp ab
+ 1F jump > //rp s
+ Big jump > //rp b
+ Smart jump > //rp sj
+ Exit Nyzul > //rp e
+ 
+MACRO FORM
+ Warping > /con rp [all]
+ Get Sanction > /con rp [all] san
+ Get Tag > /con rp [all] tag
+ Get Orders > /con rp [all] nni
+ Get Armband > /con rp armband
+ 1F jump > /con rp small   or for sending to alt  /con send AltsName rp small
+ Big jump > /con rp big   or for sending to alt  /con send AltsName rp big
+ Smart jump > /con rp smart   or for sending to alt  /con send AltsName rp smart
+ Exit Nyzul > /con rp exit   or for sending to alt  /con send AltsName rp exit
+ 
+ https://github.com/Icydeath/ffxi-addons/tree/master/RunicPortal
